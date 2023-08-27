@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Build and generated documentation folders
+build/
+doc/generated/
+
+# Visual Studio and VS Code folders
+.vscode/
+.vs/
+.vcpkg/
